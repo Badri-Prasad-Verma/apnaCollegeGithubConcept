@@ -1,4 +1,4 @@
 # apnaCollegeGithubConcept
 This is my first repository
 <br>
-Author - Badri Prasad Verma
+Author - Badri Prasad Verma (Software Developer)
